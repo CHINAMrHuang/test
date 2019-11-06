@@ -1,3 +1,14 @@
 huanghuipostbox@163.com
 password:123456
 //vimDay:2019/11/06
+add new vim code
+i 
+a
+o
+I
+A
+O
+:
+q
+!q
+w
